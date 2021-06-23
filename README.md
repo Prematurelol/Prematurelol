@@ -11,5 +11,7 @@
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=Prematurelol&theme=dark&show_icons=true)
 
+![Event Preview](https://media.giphy.com/media/g4OsIwIpRDS3qCFnbG/giphy.gif)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prematurelol&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
