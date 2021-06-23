@@ -11,7 +11,7 @@
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=Prematurelol&theme=dark&show_icons=true)
 
-
+![Discord Banner 4](https://discordapp.com/api/guilds/[856945027372285983]/widget.png?style=banner4)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prematurelol&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
