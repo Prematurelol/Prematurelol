@@ -7,6 +7,6 @@
 <br />
 <br />
 
-![ghstats](https://github-readme-stats.vercel.app/api?username=Beat-YT&theme=dark&show_icons=true)
+![ghstats](https://github-readme-stats.vercel.app/api?username=Prematurelol&theme=dark&show_icons=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beat-YT&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
