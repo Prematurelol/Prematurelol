@@ -11,7 +11,7 @@
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=Prematurelol&theme=dark&show_icons=true)
 
-![Event Preview](https://media.giphy.com/media/g4OsIwIpRDS3qCFnbG/giphy.gif)
+![Event Preview](<iframe src="https://discord.com/widget?id=856945027372285983&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prematurelol&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
