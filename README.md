@@ -21,4 +21,4 @@
 
 ### About Me
 
-I am a Java, Javascript, HTML5, Python, C#, F#, and C++ developer
+I am a ``Java,`` ``Javascript,`` ``HTML5,`` ``Python, ````C#,`` ``F#,`` and ``C++`` developer
