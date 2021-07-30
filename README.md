@@ -11,11 +11,8 @@
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=Prematurelol&theme=dark&show_icons=true)
 
-### Personal Discord Server
-![Discord Banner 4](https://discordapp.com/api/guilds/860971706214514728/widget.png?style=banner4)
-
 ### Hybrid Server Discord
-![Discord Banner 4](https://discordapp.com/api/guilds/821536699754217483/widget.png?style=banner4)
+![Discord Banner 4](https://discordapp.com/api/guilds/870639765219860482/widget.png?style=banner4)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prematurelol&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
