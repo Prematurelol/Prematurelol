@@ -11,8 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prematurelol&show_icons=true&theme=radical)
 
-### Hybrid Server Discord
-![Discord Banner 4](https://discordapp.com/api/guilds/855548700213379172/widget.png?style=banner4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prematurelol)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prematurelol&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
