@@ -9,7 +9,7 @@
 <br />
 <br />
 
-![ghstats](https://github-readme-stats.vercel.app/api?username=Prematurelol&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prematurelol&show_icons=true&theme=radical)
 
 ### Hybrid Server Discord
 ![Discord Banner 4](https://discordapp.com/api/guilds/855548700213379172/widget.png?style=banner4)
