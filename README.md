@@ -2,6 +2,11 @@
 
 ### About ME
 I am a ``Java,`` ``Javascript,`` ``HTML5,`` ``Python,`` ``C#,`` ``F#,`` and ``C++`` developer
+
+
+
+
+
 Also I am a Discord.js developer. If you would like me to make you a custom discord bot just follow me and i will get to you!!!
 
 ### Languages
