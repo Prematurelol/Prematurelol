@@ -7,7 +7,6 @@ I am a ``Java,`` ``Javascript,`` ``HTML5,`` ``Python,`` ``C#,`` ``F#,`` and ``C+
 
 
 
-Also I am a Discord.js developer. If you would like me to make you a custom discord bot just follow me and i will get to you!!!
 
 ### Languages
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
